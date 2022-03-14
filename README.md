@@ -37,7 +37,7 @@ $ python3 FeatureExtract.py -i <TrafficDir> -o <outputdir>
 ## Random forest based Browser Setting classifier
 
 ```
-cd code/
+$ cd code/
 $ pip3 install -r requirements.txt
 $ cd code/browserclassifier/
 $ pip3 install -r mlrequirements.txt
